@@ -1,2 +1,2 @@
 // serverURL.js
-export const serverUrl = 'http://localhost:3000';
+export const serverUrl = 'https://portfolio-backend-n1dh.onrender.com';

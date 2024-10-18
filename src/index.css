@@ -1,0 +1,25 @@
+/* src/index.css */
+body[data-theme='light'] {
+    background-color: #ffffff;
+    color: #000;
+  }
+  
+  body[data-theme='dark'] {
+    background-color: #1e1e1e;
+    color: #fff;
+  }
+  
+  header {
+    display: flex;
+    justify-content: space-between;
+    padding: 1rem;
+    background-color: inherit;
+  }
+  
+  button {
+    cursor: pointer;
+    padding: 0.5rem 1rem;
+    border: none;
+    border-radius: 5px;
+  }
+  
